@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "9339d7ac_98a7e33d",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2021-12-10T15:56:59Z",
+      "side": 1,
+      "message": "Not actually tested with an SIP account, but builds, and the options show up on device, let you add an account.\n\nShould also test an upgrade with an SIP account present to make sure we aren\u0027t missing anything.",
+      "revId": "c1e95d8d25ceda7344134aa8eed0ef822eff8bae",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
