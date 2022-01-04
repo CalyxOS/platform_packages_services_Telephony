@@ -16,6 +16,23 @@
       "message": "Not actually tested with an SIP account, but builds, and the options show up on device, let you add an account.\n\nShould also test an upgrade with an SIP account present to make sure we aren\u0027t missing anything.",
       "revId": "c1e95d8d25ceda7344134aa8eed0ef822eff8bae",
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "c8899d67_b32be44d",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000004
+      },
+      "writtenOn": "2022-01-04T22:01:56Z",
+      "side": 1,
+      "message": "Let\u0027s add this back so that user settings are not wiped at least.",
+      "revId": "c1e95d8d25ceda7344134aa8eed0ef822eff8bae",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
     }
   ]
 }
