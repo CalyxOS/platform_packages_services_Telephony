@@ -564,12 +564,14 @@ public class CarrierConfigLoader extends ICarrierConfigLoader.Stub {
                                         + lastFingerprint
                                         + " new: "
                                         + Build.VERSION.INCREMENTAL);
-                        clearCachedConfigForPackage(null);
                         sharedPrefs
                                 .edit()
                                 .putString(KEY_FINGERPRINT, Build.VERSION.INCREMENTAL)
                                 .apply();
                     }
+                    // Clear the cached config on every startup, not just on fingerprint change.
+                    // (Fingerprint checking above is retained to reduce upstream conflicts.)
+                    clearCachedConfigForPackage(null);
                     break;
                 }
 
