@@ -51,6 +51,24 @@
       "message": "Update re annoyances, looks like as Chirayu pointed out this should happen even with `m installclean` builds, not only for every production update.\n\nThat means it\u0027s only a small annoyance for development/debugging when going back and forth between overlays, but I already have copy/paste commands for that at calyxos#2499. Really the lack of this just means some extra `pm clear com.android.phone` which doesn\u0027t look like it hurts anything.\n\nI also don\u0027t think this will be a big issue going forward, so all said and done, skipping this makes sense at the moment.",
       "revId": "21bdb75ce8376d098687cec236931eefade7be91",
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "80d7619e_dbae4e0e",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000062
+      },
+      "writtenOn": "2024-11-20T22:48:42Z",
+      "side": 1,
+      "message": "Sure.",
+      "parentUuid": "f24163b2_74cc0acd",
+      "revId": "21bdb75ce8376d098687cec236931eefade7be91",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
     }
   ],
   "submitRequirementResults": [
