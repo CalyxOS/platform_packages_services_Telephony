@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "6ff14a58_9cf35549",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000004
+      },
+      "writtenOn": "2025-01-08T21:18:24Z",
+      "side": 1,
+      "message": "Resolved according to the 15 commit",
+      "revId": "7d40769f4c5d1220ca8f522bbbb4f7d30727a27d",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
